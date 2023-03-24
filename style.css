@@ -61,11 +61,10 @@ footer {
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
-	max-width: 800px; /* optional: set the maximum width of the gallery container */
   }
 
   .gallery img {
-	max-width: 100%;
-	height: auto;
+	width: 250px;
+	height: 250px;
 	margin: 10px; /* optional: add some spacing between images */
   }
